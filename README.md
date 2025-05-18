@@ -17,12 +17,12 @@
 
 Структура проекта:
 
-CheckingTestOne/
-└── src/
-    └── edu/
-        └── test/
-            └── weather/
-                └── WeatherAnalysis.java
+    CheckingTestOne/
+    └── src/
+        └── edu/
+            └── test/
+                └── weather/
+                    └── WeatherAnalysis.java
 
 Требования
 1. Java 8 или выше (например, OpenJDK или Oracle JDK).
